@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size:62.5%;
+}
+.contenter {
+    width: 100%;
+    margin: 0 auto;
+    background-color:#68cdd5;
+    overflow: hidden;
+}
+
+.back{
+    padding-top: 3%;
+    padding-left: 3%;
+}
+
+.logo{
+    width: 181px;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+
+.content{
+    width: 72%;
+    margin: 0 auto;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-size: 3rem;
+    line-height: 5.4rem;
+    color:#eff9fa;
+}
+.footer{
+    padding-bottom: 20%;
+    font-size: 2.4rem;
+    line-height: 5.4rem;
+    color: #eff9fa;
+    text-align: center;
+}
+.foot-left{
+    float: left;
+    width: 50%;
+}
+.foot-right{
+    float:right;
+    width: 50%;
+}
+
+
