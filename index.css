@@ -5,29 +5,31 @@
 html{
     font-size:62.5%;
 }
+img{
+    max-width: 100%;
+}
 .contenter {
-    width: 100%;
     margin: 0 auto;
     background-color:#68cdd5;
     overflow: hidden;
 }
 
 .back{
-    padding-top: 3%;
-    padding-left: 3%;
+    padding-top:2%;
+    padding-left:6%;
 }
 
 .logo{
     width: 181px;
     margin: 0 auto;
-    padding-top: 10%;
+    padding-top: 4%;
 }
 
 .content{
-    width: 72%;
+    width: 70%;
     margin: 0 auto;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 10%;
+    padding-bottom: 15%;
     font-size: 3rem;
     line-height: 5.4rem;
     color:#eff9fa;
